@@ -12,13 +12,15 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
- * Created by adamvaldez on 2/18/15.
+ *
+ * Created by Adam Valdez on 2/18/15.
+ *
  */
+
 public class ItemsFragment extends Fragment implements AdapterView.OnItemClickListener
 {
 

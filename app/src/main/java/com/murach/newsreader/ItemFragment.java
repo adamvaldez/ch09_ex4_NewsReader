@@ -10,7 +10,9 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 /**
- * Created by adamvaldez on 2/18/15.
+ *
+ * Created by Adam Valdez on 2/18/15.
+ *
  */
 
 public class ItemFragment extends Fragment  implements View.OnClickListener
@@ -46,7 +48,8 @@ public class ItemFragment extends Fragment  implements View.OnClickListener
     }
 
     @Override
-    public void onClick(View v) {
+    public void onClick(View v)
+    {
         // get the intent
         Intent intent = getActivity().getIntent();
 
