@@ -12,7 +12,7 @@ import android.widget.TextView;
 /**
  *
  * Created by Adam Valdez on 2/18/15.
- *
+ * fuck you
  */
 
 public class ItemFragment extends Fragment  implements View.OnClickListener
